@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class MyLop {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        // Tam giác có 3 cạnh: x, y, z
         System.out.println("Enter x: ");
         int x = scanner.nextInt();
         System.out.println("Enter y: ");
